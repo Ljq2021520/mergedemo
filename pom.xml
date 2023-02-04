@@ -8,5 +8,11 @@
     <artifactId>mergedemo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>tomcat</groupId>
+            <artifactId>servlet</artifactId>
+            <version>4.1.36</version>
+        </dependency>
+    </dependencies>
 </project>
